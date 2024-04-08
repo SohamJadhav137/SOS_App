@@ -20,7 +20,8 @@
         android:layout_below="@id/SOSbutton"
         android:text="Add Contacts"
         android:layout_centerHorizontal="true"
-        android:id="@+id/AddCntbutton"/>
+        android:id="@+id/AddCntbutton"
+        android:visibility="invisible"/>
 
     <TextView
         android:layout_width="wrap_content"
